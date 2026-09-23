@@ -48,3 +48,20 @@ Built with
 React Native Expo Firebase
 
 </td> <td width="50%" valign="top">
+
+💬 Temenin Aja
+
+A mobile application concept focused on creating a simple and comfortable space for users to share their thoughts.
+
+Focus
+
+📱 Mobile-first experience
+💬 Conversation experience
+🎨 Friendly UI/UX
+⚡ Modern application architecture
+
+Built with
+
+React Native JavaScript
+
+<br> <a href="https://github.com/sryalsmn/APP_Temenin_aja"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
