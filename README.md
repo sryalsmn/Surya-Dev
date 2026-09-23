@@ -1,19 +1,13 @@
 <h1 align="center">Hi, I'm Surya Lesmana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Modern React Landing Pages**
-
-- 🌱 I’m currently learning **React, Advanced JavaScript & UI/UX**
-
-- 👯 I’m looking to collaborate on **Frontend & Web Development Projects**
-
-- 🤝 I’m looking for help with **Building scalable frontend architectures**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Landing Pages & Frontend Development**
-
-- 📫 How to reach me **kuyotlesmana@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning ideas into interactive web experiences.**
+I’m currently working on **Modern React Landing Pages**
+I’m currently learning **React, Advanced JavaScript & UI/UX**
+I’m looking to collaborate on **Frontend & Web Development Projects**
+I’m looking for help with **Building scalable frontend architectures**
+Ask me about **HTML, CSS, JavaScript, React, Landing Pages & Frontend Development**
+How to reach me **kuyotlesmana@gmail.com**
+Fun fact **I enjoy turning ideas into interactive web experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
