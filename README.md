@@ -64,4 +64,4 @@ Built with
 
 React Native JavaScript
 
-<br> <a href="https://github.com/sryalsmn/APP_Temenin_aja"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
+<!-- <br> <a href="https://github.com/sryalsmn/APP_Temenin_aja"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> -->
