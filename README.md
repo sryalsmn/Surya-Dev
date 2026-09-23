@@ -8,7 +8,7 @@
 - Ask me about **HTML, CSS ,JavaScript, React, Landing Pages & Frontend Development**
 - How to reach me **kuyotlesmana@gmail.com**
 - Fun fact **I enjoy turning ideas into interactive web experiences.**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lasuy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lasuy___" height="30" width="40" /></a>
