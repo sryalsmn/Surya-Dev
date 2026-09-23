@@ -65,3 +65,6 @@ Built with
 React Native JavaScript
 
 <!-- <br> <a href="https://github.com/sryalsmn/APP_Temenin_aja"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> -->
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sryalsmn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sryalsmn&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
