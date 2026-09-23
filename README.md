@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Building scalable frontend architectures**
 
-- 💬 Ask me about **HTML, CSS ,JavaScript, React, Landing Pages & Frontend Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Landing Pages & Frontend Development**
 
 - 📫 How to reach me **kuyotlesmana@gmail.com**
 
