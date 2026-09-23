@@ -65,3 +65,32 @@ Built with
 React Native JavaScript
 
 <!-- <br> <a href="https://github.com/sryalsmn/APP_Temenin_aja"> <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> -->
+🌐 Jurnal Publisher Landing Page
+
+Modern landing page concept for academic journal publication services.
+
+Focus
+
+🎨 Modern UI
+📱 Responsive design
+⚡ Performance optimization
+🧩 Reusable components
+📈 Conversion-focused layout
+
+Built with
+
+React JavaScript CSS
+
+</td> <td width="50%" valign="top">
+🧪 More Projects
+
+I'm continuously building and experimenting with new ideas.
+
+From:
+
+🌐 Web applications
+📱 Mobile applications
+🤖 AI integrations
+⚙️ Automation
+🎨 UI/UX experiments
+<br> <a href="https://github.com/sryalsmn?tab=repositories"> <img src="https://img.shields.io/badge/Explore_All_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> </table>
