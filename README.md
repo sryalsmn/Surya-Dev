@@ -26,3 +26,25 @@
     width="100%"
   />
 </p>
+
+🚀 Featured Projects
+<p align="center"> Some projects I've been working on </p> <table> <tr> <td width="50%" valign="top">
+💰 MoneyFlow
+
+Personal finance application designed to help users manage their daily financial activities.
+
+Features
+
+💸 Income & expense tracking
+📊 Financial reports
+🎯 Savings goals
+💳 Budget management
+🔔 Bill reminders
+🤖 AI financial assistant
+🔐 PIN security
+
+Built with
+
+React Native Expo Firebase
+
+</td> <td width="50%" valign="top">
